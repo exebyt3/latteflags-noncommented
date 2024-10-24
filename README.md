@@ -5,23 +5,16 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAG$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/refs/heads/main/Images/Bloxstrap.png" width="24" alt="Playboi Carti"> #RBXFLAG$</h1>
 
-<h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
+<div align="center">
+
+`10.24.24`
+
+<h3 align="center">View Here</h3>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
-<h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
-
-<h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
-
-<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
-<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
-
-> [!CAUTION]
-> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
-
+<!--
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.24` `F R E A K`
@@ -1739,6 +1732,8 @@ High
   [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
   [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
+
+-->
 
 </div>
 <h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
