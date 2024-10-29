@@ -14,7 +14,6 @@
 <h3 align="center">View Here</h3>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
-<!--
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.24` `F R E A K`
@@ -1732,8 +1731,6 @@ High
   [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
   [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
-
--->
 
 </div>
 <h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
